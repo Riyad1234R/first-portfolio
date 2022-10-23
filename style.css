@@ -49,9 +49,17 @@ h2 {
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 10px;
-    box-shadow: 10px 10px 100px yellowgreen;
+    box-shadow: 10px 10px 40px grey;
 }
 
 #full-stuck-developer {
     border-left: 7px solid tomato;
+}
+
+#baby-web-developer {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
 }
